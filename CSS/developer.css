@@ -1,0 +1,39 @@
+.developer-team h1{ padding:50px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+table{ 
+    border:solid 4px;
+border-collapse: collapse;
+width:250px; height:250px;
+padding:50px; 
+}
+th,td{
+    border: solid 2px;
+    text-align: center;
+}
+h1:hover{
+    color:brown;
+}
+.developer-team tr:hover{
+background-color:lightblue;
+}
+.tss{
+    display:flex;
+    justify-content: center;
+}
+#th001{
+    background-color: aquamarine;
+}
+.hid-head h1{ text-align:center;
+margin: 10px;}
+.button1{ display:flex;
+justify-content: center;}
+#prank{
+    display:none;
+}
+#prank:target{
+    display:block;
+    margin-bottom: 40px;
+}

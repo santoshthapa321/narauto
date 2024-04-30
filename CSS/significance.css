@@ -1,0 +1,42 @@
+
+   #significance-h1:hover{color: brown;}
+#para1{ padding:20px;
+}
+#para1:hover{ 
+font-style: italic;
+}
+.whyfans h1{ padding-left: 10px;}
+   .significance h1:hover{color: brown;}
+.wf-p{ padding:20px;}
+.wf-p:hover{
+   font-style:italic;
+}
+.significance{
+   
+      display: flex;
+      justify-content: space-around; 
+      align-items: center; 
+      padding: 20px;
+  
+}
+#significance-h1{
+   padding-left: 10px;
+}
+.whyfans h1:hover{color:brown}
+.whyfanssec{
+   display:flex;
+   justify-content: space-around;
+   align-items: center;
+   padding:20px;
+}
+#img1{
+   border-radius: 50%;
+}
+#img2{ border-radius:50%;
+}
+#img1:hover{
+   height: 300px;width: 300px;
+}
+#img2:hover{
+   height: 300px;width: 300px;
+}
